@@ -4,10 +4,10 @@ My name is Esther and I've been a Software Development and UX/UI student since 2
 
 ##
 
-### ✉️ Contact:
-<div> 
-  <a href = "mailto:stherpimentel@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/esther-maria-pimentel-porto-4b351a74/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://github.com/EstherPimentel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherPimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherPimentel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
    ##
@@ -25,11 +25,10 @@ My name is Esther and I've been a Software Development and UX/UI student since 2
   
   ##
 
-<div align="center">
-  <a href="https://github.com/EstherPimentel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EstherPimentel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EstherPimentel&layout=compact&langs_count=7&theme=dracula"/>
-
+### ✉️ Contact:
+<div> 
+  <a href = "mailto:stherpimentel@yahoo.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/esther-maria-pimentel-porto-4b351a74/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ##
   
