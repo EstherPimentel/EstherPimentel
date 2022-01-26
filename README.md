@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Meu nome é Esther e sou estudante de Desenvolvimento de Software e UX/UI desde 2021. 
+My name is Esther and I've been a Software Development and UX/UI student since 2021. 
 
 ##
 
