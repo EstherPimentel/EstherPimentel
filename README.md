@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img alt="gif" height="50" src="https://github.com/EstherPimentel/FE3-Avaliacao01/blob/main/src/components/img/pomoDeOuro.gif">
 
 My name is Esther and I've been a Software Development and UX/UI student since 2021. 
 
