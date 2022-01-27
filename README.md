@@ -1,7 +1,7 @@
 
 # Hi there <img alt="gif" height="50" src="https://github.com/EstherPimentel/FE3-Avaliacao01/blob/main/src/components/img/pomoDeOuro.gif">
 
-My name is Esther and I've been a Software Development and UX/UI student since 2021. 
+<img alt="foto" align="center" height="100" src="https://github.com/EstherPimentel/FE3-Avaliacao01/blob/main/src/components/img/Esther.jpeg">  My name is Esther and I've been a Software Development and UX/UI student since 2021. 
 
 ##
 
