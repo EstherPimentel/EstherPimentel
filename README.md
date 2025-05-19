@@ -36,7 +36,5 @@
   ##
   
 ### 🐌 Contributions Activity:
-
- <!-- ![Snake animation](https://github.com/EstherPimentel/EstherPimentel/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
